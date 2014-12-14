@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+ln -sf ~/.dotfiles/.vimrc ~/
+ln -sf ~/.dotfiles/.tmux.conf ~/
+
+ln -sf ~/.dotfiles/.oh-my-zsh/custom/aliases.zsh ~/.oh-my-zsh/custom/
+
